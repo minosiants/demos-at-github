@@ -7,3 +7,6 @@
 [submodule "scala-io-2013-shapeless-workshop"]
 	path = scala-io-2013-shapeless-workshop
 	url = https://github.com/milessabin/shapeless-workshop-paris.git
+[submodule "play-docker-demo"]
+	path = play-docker-demo
+	url = https://github.com/gilt/play-docker-demo.git
