@@ -1,0 +1,9 @@
+[submodule "scala-io-2013-amjjd"]
+	path = scala-io-2013-amjjd
+	url = https://github.com/amjjd/scala_io_2013.git
+[submodule "scala-io-2013-scalaz-talk-arosien"]
+	path = scala-io-2013-scalaz-talk-arosien
+	url = https://github.com/arosien/scala-io-2013-scalaz-talk.git
+[submodule "scala-io-2013-shapeless-workshop"]
+	path = scala-io-2013-shapeless-workshop
+	url = https://github.com/milessabin/shapeless-workshop-paris.git
