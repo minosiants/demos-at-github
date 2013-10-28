@@ -10,3 +10,6 @@
 [submodule "play-docker-demo"]
 	path = play-docker-demo
 	url = https://github.com/gilt/play-docker-demo.git
+[submodule "scala-io-2013-iteraties"]
+	path = scala-io-2013-iteraties
+	url = https://github.com/xbucchiotty/scalaio-iteratees.git
